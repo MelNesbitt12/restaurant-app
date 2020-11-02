@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+/*import React, { useState } from 'react';
 // import logo from './logo.svg';
 // import Nav from 'react-bootstrap/Nav'
 // import Navbar from 'react-bootstrap/Navbar'
@@ -54,4 +54,4 @@ return (
   )
 }
 
-export default Diners
+export default Diners */
